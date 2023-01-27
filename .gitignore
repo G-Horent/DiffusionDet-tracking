@@ -24,9 +24,7 @@ wheels/
 *.pkl
 *.npy
 
-# ipython/jupyter notebooks
-*.ipynb
-**/.ipynb_checkpoints/
+
 
 # Editor temporaries
 *.swn
